@@ -1,0 +1,22 @@
+{
+  "name": "pruebaExpressJS",
+  "version": "1.0.0",
+  "description": "Una prueba con expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walis85300/pruebaExpressJS.git"
+  },
+  "author": "walis85300",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walis85300/pruebaExpressJS/issues"
+  },
+  "homepage": "https://github.com/walis85300/pruebaExpressJS",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
